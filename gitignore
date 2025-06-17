@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+*.idea/
+*.vscode/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Icon file (if you want to exclude, otherwise remove this line)
+asciihex.png
+
+# CSV exports
+*.csv
